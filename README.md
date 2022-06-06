@@ -1,14 +1,3 @@
-## Hi
-
-### About me
-My name is Kacper, I am studying at the Wrocław University of Technology. My strongest technologies are JavaScript, React, and React Native. I also worked in Vue, and know basics of Java and Spring framework
-
-### I’m currently working on
-* Watering plant reminder app - [WateringApp](https://github.com/KKusiak/watering-app)
-
-* Debt settling app - [Settle Debts](https://github.com/KKusiak/settle-debts)
-
-
 ### How to reach me
 
 [Linkedin](https://www.linkedin.com/in/kacper-kusiak-59212a204/)
